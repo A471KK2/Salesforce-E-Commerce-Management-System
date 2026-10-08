@@ -70,28 +70,28 @@ Offer Price manages pricing offers for products.
 ## Screenshots
 
 ### Salesforce E-Commerce Application
-![Salesforce E-Commerce App](screenshots/01-Salesforce%20E-Commerce%20App.png.png)
+![Salesforce E-Commerce App](Screenshot/01-Salesforce%20E-Commerce%20App.png)
 
 ### Data Model
-![Data Model](screenshots/02-data-model.png.png)
+![Data Model](Screenshot/02-data-model.png)
 
 ### Object Configuration
-![Object Configuration](screenshots/03-object-configuration.png.png)
+![Object Configuration](03-object-configuration.png)
 
 ### Validation
-![Validation](screenshots/04-validation.png.png)
+![Validation](Screenshot/04-validation.png)
 
 ### Roll-Up Fields
-![Roll-Up Fields](screenshots/05-Rollup%20Fields.png.png)
+![Roll-Up Fields](Screenshot/05-Rollup%20Fields.png)
 
 ### Permission Set
-![Permission Set](screenshots/06-Permission%20Set.png.png)
+![Permission Set](Screenshot/06-Permission%20Set.png)
 
 ### Profile
-![Profile](screenshots/06-Profile%20.png.png)
+![Profile](screenshots/Screenshot/06-Profile.png)
 
 ### Flow Automation
-![Flow Trigger](screenshots/07-Flow%20Trigger.png.png)
+![Flow Trigger](Screenshot/07-Flow%20Trigger.png)
 
 ## Current Scope
 
