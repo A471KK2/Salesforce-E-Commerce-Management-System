@@ -76,7 +76,7 @@ Offer Price manages pricing offers for products.
 ![Data Model](Screenshot/02-data-model.png)
 
 ### Object Configuration
-![Object Configuration](03-object-configuration.png)
+![Object Configuration](Screenshot/03-object-configuration.png)
 
 ### Validation
 ![Validation](Screenshot/04-validation.png)
@@ -88,7 +88,7 @@ Offer Price manages pricing offers for products.
 ![Permission Set](Screenshot/06-Permission%20Set.png)
 
 ### Profile
-![Profile](screenshots/Screenshot/06-Profile.png)
+![Profile](Screenshot/06-Profile.png)
 
 ### Flow Automation
 ![Flow Trigger](Screenshot/07-Flow%20Trigger.png)
